@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  * @author Hailin
  * @date 2019-04-16
  */
-public class InfoValidateUtil {
+public class InfoValidateUtils {
 
     /**
      * 正则表达式：验证用户名
