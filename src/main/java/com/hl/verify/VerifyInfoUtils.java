@@ -1,4 +1,4 @@
-package com.hl.valid;
+package com.hl.verify;
 
 import java.util.regex.Pattern;
 
@@ -8,7 +8,10 @@ import java.util.regex.Pattern;
  * @author Hailin
  * @date 2019-04-16
  */
-public class InfoValidateUtils {
+public final class VerifyInfoUtils {
+
+    private VerifyInfoUtils() {
+    }
 
     /**
      * 正则表达式：验证用户名
